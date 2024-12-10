@@ -4,14 +4,14 @@ version: 1.0.1
 homepage: https://github.com/vvkeep/flutter_power_file_view
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=3.2.0 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  dio: ^4.0.0
+  dio: ^5.0.0
 
 dev_dependencies:
   flutter_test:
